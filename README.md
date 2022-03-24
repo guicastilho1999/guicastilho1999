@@ -1,10 +1,11 @@
 ### Olá!! Sou o Guilherme Castilho 👋
 
-- ⚙️ Atualmente estou me formando em Engenharia de Produção
-- 🌱 Estudando Python, com muito interesse em Gestão, Tecnologia e Programação
+- ⚙️ Formando em Engenharia de Produção
+- 🤿 Faço Parte do Scuba Team da Escola de Gestão e Inovação na Alura
+- 🌱 Estudando Gestão, Tecnologia e Programação
 - 📫 Contate-me no e-mail: guikstilho@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Nasci em Cafelândia/SP 😄☕
+- ⚡ Curiosidade: Nasci em Cafelândia/SP ☕
 
 <div align="center">
   <a href="https://github.com/guicastilho1999">
