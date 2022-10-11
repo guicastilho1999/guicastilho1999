@@ -1,8 +1,9 @@
 ### Olá!! Sou o Guilherme Castilho 👋
 
-- ⚙️ Formando em Engenharia de Produção
-- 🤿 Faço Parte do Scuba Team da Escola de Gestão e Inovação na Alura
-- 🌱 Estudando Gestão, Tecnologia e Programação
+- ⚙️ Formado em Engenharia de Produção
+- 📚 Mestrando em Engenharia de Produção
+- 🤿 Fui estagiário na Escola de Gestão e Inovação da Alura
+- 🌱 Sempre busco conhecimento em Gestão, Metodologias Ágeis, Tecnologia e Programação
 - 📫 Contate-me no e-mail: guikstilho@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Nasci em Cafelândia/SP ☕
@@ -19,6 +20,7 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gui-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
 </div>
 
 ##
