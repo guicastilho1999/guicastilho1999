@@ -1,7 +1,7 @@
 ### Olá!! Sou o Guilherme Castilho 👋
 
-- ⚙️ Formado em Engenharia de Produção
-- 📚 Mestrando em Engenharia de Produção
+- ⚙️ Formado em Engenharia de Produção - UNESP/Itapeva
+- 📚 Mestrando em Engenharia de Produção - UNESP/Bauru
 - 🤿 Fui estagiário na Escola de Gestão e Inovação da Alura
 - 🌱 Sempre busco conhecimento em Gestão, Metodologias Ágeis, Tecnologia e Programação
 - 📫 Contate-me no e-mail: guikstilho@gmail.com
