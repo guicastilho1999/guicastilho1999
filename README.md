@@ -3,9 +3,8 @@
 - ⚙️ Formado em Engenharia de Produção - UNESP/Itapeva
 - 📚 Mestrando em Engenharia de Produção - UNESP/Bauru
 - 🤿 Fui estagiário na Escola de Gestão e Inovação da Alura
-- 🌱 Sempre busco conhecimento em Gestão, Metodologias Ágeis, Tecnologia e Programação
+- 🌱 Sempre busco aprender mais nas áreas de Engenharia, Gestão, Tecnologia e Programação
 - 📫 Contate-me no e-mail: guikstilho@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Nasci em Cafelândia/SP ☕
 
 <div align="center">
